@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @santosh214
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+I'm+Santosh;Nice+to+meet+you)](https://git.io/typing-svg)
+
 - 👀 I’m interested in Programming 
 - 🌱 I’m currently learning Web3
 - 💞️ I’m looking to collaborate on Web Projects
