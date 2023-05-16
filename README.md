@@ -3,6 +3,8 @@
 - 👀 I’m interested in Programming 
 - 🌱 I’m currently learning Web3
 - 💞️ I’m looking to collaborate on Web Projects
+
+[![Santosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=santosh214)](https://github.com/anuraghazra/github-readme-stats)
 - 
 ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
