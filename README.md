@@ -6,7 +6,7 @@
 
 [![Santosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=santosh214&count_private=true&show_icons=true&theme=radical)](https://github.com/santosh214/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santosh214&theme=radical&show_icons=true)](https://github.com/santosh214/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santosh214&theme=radical&show_icons=true&count_private=true)](https://github.com/santosh214/github-readme-stats)
 
 ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
