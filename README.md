@@ -1,8 +1,19 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Santosh%20Singh&fontSize=90)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+I'm+Santosh;Nice+to+meet+you)](https://git.io/typing-svg)
 
 - 👀 I’m interested in Programming 
 - 🌱 I’m currently learning Web3
 - 💞️ I’m looking to collaborate on Web Projects
+  
+![](https://komarev.com/ghpvc/?username=santosh214&color=blue&style=for-the-badge)
+
+<div>
+  <h4>🏆 Github Profile Trophy</h4>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=santosh214&column=7"/>
+  </a>
+</div>
 
 [![Santosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=santosh214&count_private=true&show_icons=true&theme=radical)](https://github.com/santosh214/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santosh214&theme=radical&show_icons=true&count_private=true)](https://github.com/santosh214/github-readme-stats)
 
