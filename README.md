@@ -1,3 +1,7 @@
+<p>
+	
+![](https://komarev.com/ghpvc/?username=santosh214&label=Profile+Views&color=lightgrey)
+</p>
 <h1 align="center">
   <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
