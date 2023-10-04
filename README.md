@@ -73,15 +73,11 @@ Santosh</a></h1>
 
 <p>
 <a href="https://github-readme-streak-stats.herokuapp.com?user=santosh214&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5">
-	
+🔥 Streak Stats	
 
 </a>
 <img alt="Santosh's streak" src="https://github-readme-streak-stats.herokuapp.com?user=santosh214&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5"/>
-</p>
 
-<h3>💻 GitHub Profile Stats</h3>
-
-<p>
 <a href="#"><img alt="Santosh's Github Stats" src="https://github-readme-stats-vibrantfix.vercel.app/api?username=santosh214&locale=en&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&bg_color=000000EE&title_color=FF72FF&icon_color=F8D866" height="192px"/></a>
 <a href="#"><img alt="Santosh's Top Languages" src="https://github-readme-stats-vibrantfix.vercel.app/api/top-langs?username=santosh214&langs_count=8&layout=compact&theme=dracula&hide_border=true&bg_color=000000EE&title_color=FF72FF&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 <br/>
