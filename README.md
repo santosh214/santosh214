@@ -42,7 +42,7 @@ Santosh</a></h1>
       
 
 </p>
-<h3>👨‍💻 Programming and Markup Languages</h3>
+<h3>Programming and Markup Languages</h3>
 
 
 
