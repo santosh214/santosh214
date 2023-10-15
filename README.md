@@ -20,7 +20,7 @@ Santosh</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working on <strong>Full-Stack Web Development (Dapps)</strong> and <strong>Open Source Contributions</strong>
+- 🔭 I’m currently working on <strong>Full-Stack Web Development </strong> and <strong>Open Source Contributions</strong>
 - 🌱 I’m currently learning <strong>Web3</strong>
 - 🔍 I’m looking to collaborate on <strong>FrontEnd Web Dev Projects</strong>
 - 💬 Ask me about <strong> JavaScript, ReactJS, Bootstrap, Node, NextJs</strong>
