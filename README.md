@@ -24,7 +24,7 @@ Santosh</a></h1>
 - 🌱 I’m currently learning <strong>Web3</strong>
 - 🔍 I’m looking to collaborate on <strong>MERN Stack Projects</strong>
 - 💬 Ask me about <strong> JavaScript, ReactJS, Bootstrap, Node, NextJs</strong>
-- ⚡ Fun fact: I can talk 24/7 about programming..
+- ⚡ Fun fact: I can talk 24/7 about programming.
 
 - 📫 How to reach me **santoshsingh74827@gmail.com**
 
