@@ -13,7 +13,7 @@
 </h1>
 
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
-Santosh</a></h1>
+Santosh Singh</a></h1>
 <h3 align="center">A Passionate Fullstack developer &#127470;&#127475</h3>
 
 <a target="_blank" align="center">
