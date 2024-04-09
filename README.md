@@ -4,7 +4,7 @@
 </p>
 <h1 align="center" class='tt'>
   <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
+    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="25px" style="max-width:100%;">
   </a>
   𝐇𝐞𝐥𝐥𝐨, &lt;C𝚘𝚍𝚎𝚛𝚜/&gt; 
   <a target="_blank">
